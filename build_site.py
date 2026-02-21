@@ -44,8 +44,10 @@ def main() -> None:
     cards_html = "\n".join(build_service_card(s) for s in data["services"])
     html = html.replace("{{services_cards}}", cards_html)
 
-    # Write output
-    out = ROOT / "index.html"
+    # Write output into a dedicated folder for deployment
+    out_dir = ROOT / "output"
+    out_dir.mkdir(exist_ok=True)
+    out = out_dir / "index.html"
     out.write_text(html, encoding="utf-8")
     print(f"✅  Built {out}")
 
