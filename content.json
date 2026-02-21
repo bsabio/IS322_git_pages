@@ -1,7 +1,7 @@
 {
   "name": "Pedro Sabio",
-  "title": "AI Strategy Consultant",
-  "bio": "I help organizations harness the power of artificial intelligence to drive innovation and growth. With over a decade of experience in machine learning, natural language processing, and data strategy, I partner with leadership teams to turn complex AI concepts into actionable business outcomes. From Fortune 500 enterprises to ambitious startups, I deliver tailored solutions that are ethical, scalable, and results-driven.",
+  "title": "AI and Data Science Consultant",
+  "bio": "I help organizations harness the power of artificial intelligence to drive innovation and growth. With over a decade of experience in machine learning, natural language processing, and data strategy, I partner with leadership teams to turn complex AI concepts into actionable business outcomes.",
   "services": [
     {
       "title": "AI Training & Workshops",
@@ -15,7 +15,7 @@
     },
     {
       "title": "Custom AI Development",
-      "description": "From proof-of-concept to production — I design, build, and deploy bespoke AI solutions including predictive models, intelligent automation, and conversational AI systems.",
+      "description": "From proof-of-concept to production — I design, build, and deploy bespozxed AI solutions including predictive models, intelligent automation, and conversational AI systems.",
       "icon": "⚙️"
     }
   ],
