@@ -1,0 +1,28 @@
+{
+  "name": "Alex Morgan",
+  "title": "AI Strategy Consultant",
+  "bio": "I help organizations harness the power of artificial intelligence to drive innovation and growth. With over a decade of experience in machine learning, natural language processing, and data strategy, I partner with leadership teams to turn complex AI concepts into actionable business outcomes. From Fortune 500 enterprises to ambitious startups, I deliver tailored solutions that are ethical, scalable, and results-driven.",
+  "services": [
+    {
+      "title": "AI Training & Workshops",
+      "description": "Hands-on training programs designed to upskill your team on machine learning fundamentals, prompt engineering, and responsible AI practices. Customized for technical and non-technical audiences alike.",
+      "icon": "🎓"
+    },
+    {
+      "title": "AI Strategy & Roadmapping",
+      "description": "End-to-end strategic planning to identify high-impact AI opportunities, assess organizational readiness, and build a phased adoption roadmap aligned with your business objectives.",
+      "icon": "🗺️"
+    },
+    {
+      "title": "Custom AI Development",
+      "description": "From proof-of-concept to production — I design, build, and deploy bespoke AI solutions including predictive models, intelligent automation, and conversational AI systems.",
+      "icon": "⚙️"
+    }
+  ],
+  "contact": {
+    "email": "hello@alexmorganconsulting.com",
+    "linkedin": "https://linkedin.com/in/alexmorganconsulting",
+    "github": "https://github.com/alexmorganconsulting",
+    "location": "New York, NY"
+  }
+}
